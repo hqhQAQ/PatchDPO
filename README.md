@@ -25,13 +25,14 @@ With PatchDPO, our model achieves **state-of-the-art** performance on personaliz
 
 ### 🔥🔥🔥 News!!
 
-- 📰 Our paper is available at [arXiv](https://arxiv.org/abs/2412.03177).
-- 🤗 Our model weights are available at [Hugging Face](https://huggingface.co/hqhQAQ/PatchDPO/tree/main).
-- 🚀 Training code is available here.
-- 🚀 Inference code is available here.
-- 🚀 Evaluation code is available here.
-- 💬 Our preliminary work **MIP-Adapter** for multi-object personalized generation is available at [MIP-Adapter](https://github.com/hqhQAQ/MIP-Adapter).
-- 💬 Our preliminary work **MS-Diffusion** for multi-object personalized generation is available at [MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion).
+- 📰 [2024.12.05] Our paper is available at [arXiv](https://arxiv.org/abs/2412.03177).
+- 🤗 [2024.12.05] Our model weights are available at [Hugging Face](https://huggingface.co/hqhQAQ/PatchDPO/tree/main).
+- 🚀 [2024.12.05] Training code is available here.
+- 🚀 [2024.12.05] Inference code is available here.
+- 🚀 [2024.12.05] Evaluation code is available here.
+- 💬 [2024.12.05] Our preliminary work **MIP-Adapter** for multi-object personalized generation is available at [MIP-Adapter](https://github.com/hqhQAQ/MIP-Adapter).
+- 💬 [2024.12.05] Our preliminary work **MS-Diffusion** for multi-object personalized generation is available at [MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion).
+- 💬 [2025.02.27] Our paper is accepted by CVPR 2025!
 
 ### Performance
 
