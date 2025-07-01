@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://arxiv.org/abs/2412.03177"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2412.03177&color=B31B1B&logo=arxiv"></a> &ensp;
-  <a href="https://huggingface.co/hqhQAQ/PatchDPO/tree/main"><img src="https://img.shields.io/static/v1?label=Model Weights&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/hqhQAQ/PatchDPO/tree/main"><img src="https://img.shields.io/static/v1?label=Model_Weights&message=HuggingFace&color=yellow"></a> &ensp;
 
 </div>
 
